@@ -1,4 +1,6 @@
-# myPy
+ï»¿# myPy
 my Python study source files
 my git study
-‚Ü‚½C³‚µ‚Ü‚µ‚½B
+ã¾ãŸä¿®æ­£ã—ã¾ã—ãŸã€‚
+æ—¥æœ¬èªOKï¼Ÿ
+ä¸­æ–‡OK?
